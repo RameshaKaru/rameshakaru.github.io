@@ -1,0 +1,17 @@
+---
+title: "DEVI: Open-source Human-Robot Interface for Interactive Receptionist Systems"
+collection: publications
+permalink: /publication/2019-ieee-arm
+excerpt: 'This paper is about an open source human-robot interface'
+date: 2019
+venue: '2019 IEEE 4th International Conference on Advanced Robotics and Mechatronics (ICARM)'
+paperurl: 'https://arxiv.org/pdf/2101.00479.pdf'
+citation: "Karunasena, R., Sandarenu, P., Pinto, M., Athukorala, A., Rodrigo, R., & Jayasekara, P. (2019). Devi: Open-source human-robot interface for interactive receptionist systems. In 2019 IEEE 4th International Conference on Advanced Robotics and Mechatronics (ICARM) (pp. 378–383)."
+---
+Humanoid robots that act as human-robot interfaces equipped with social skills can assist people in many of their daily activities. Receptionist robots are one such application where social skills and appearance are of utmost importance. Many existing robot receptionist systems suffer from high cost and they do not disclose internal architectures for further development for robot researchers. Moreover, there does not exist customizable open-source robot receptionist frameworks to be deployed for any given application. In this paper we present an open-source robot receptionist intelligence core -- "DEVI"(means 'lady' in Sinhala), that provides researchers with ease of creating customized robot receptionists according to the requirements (cost, external appearance, and required processing power). Moreover, this paper also presents details on a prototype implementation of a physical robot using the DEVI system. The robot can give directional guidance with physical gestures, answer basic queries using a speech recognition and synthesis system, recognize and greet known people using face recognition and register new people in its database, using a self-learning neural network. Experiments conducted with DEVI show the effectiveness of the proposed system.
+
+[Download paper here](https://arxiv.org/pdf/2101.00479.pdf)
+
+Recommended citation: 
+Karunasena, R., Sandarenu, P., Pinto, M., Athukorala, A., Rodrigo, R., & Jayasekara, P. (2019). Devi: Open-source human-robot interface for interactive receptionist systems. In 2019 IEEE 4th International Conference on Advanced Robotics and Mechatronics (ICARM) (pp. 378–383).
+
