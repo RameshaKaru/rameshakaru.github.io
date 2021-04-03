@@ -115,7 +115,7 @@ analytics:
 
 author:
   name   : "Ramesha Karunasena"
-  avatar : "/assets/images/myphoto.jpg"
+  avatar : "myphoto.jpg"
   bio    : "A passionate programmer, interested in AI For Social Good"
   location         : "Singapore"
   employer         : "Singapore Managemnet University"
