@@ -8,10 +8,10 @@
 # Site Settings
 
 
-twitter_username: RameshaKarunas1
-github_username: RameshaKaru
-minimal_mistakes_skin: aqua
-search: true
+#twitter_username: RameshaKarunas1
+#github_username: RameshaKaru
+#minimal_mistakes_skin: aqua
+#search: true
 
 locale                   : "en-US"
 #title                    : "Your Name / Site Title"
@@ -118,11 +118,11 @@ author:
   avatar : "myphoto.jpg"
   bio    : "A passionate programmer, interested in AI For Social Good"
   location         : "Singapore"
-  employer         : "Singapore Managemnet University"
+  employer         : "Singapore Management University"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Qp4FL6QAAAAJ"
   email            : "rameshak@smu.edu.sg"
-#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Ramesha-Karunasena"
 #  uri              :
 #  bitbucket        :
 #  codepen          :
@@ -130,24 +130,24 @@ author:
 #  flickr           :
 #  facebook         :
 #  foursquare       :
-  github           : "academicpages"
+  github           : "rameshakaru"
 #  google_plus      :
 #  keybase          :
 #  instagram        :
 #  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
 #  lastfm           :
   linkedin         : "https://www.linkedin.com/in/ramesha-karunasena"
-#  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5400-4168"
 #  pinterest        :
 #  soundcloud       :
 #  stackoverflow    : # http://stackoverflow.com/users/123456/username
 #  steam            :
 #  tumblr           :
-#  twitter          : "replacethistwitterhandle"
+  twitter          : "RameshaKarunas1"
 #  vine             :
 #  weibo            :
 #  xing             :
-#  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCoL0-hFUGKMAdVlavOZlbGQ"
 #  wikipedia        :
 
 
