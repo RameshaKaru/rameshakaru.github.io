@@ -92,36 +92,36 @@ analytics:
 
 
 # Site Author
+#author:
+#  name   : "Ramesha Karunasena"
+#  avatar : "/assets/images/myphoto.jpg"
+#  bio    : "A passionate programmer, interested in AI For Social Good"
+#  links:
+#    - label: "LinkedIn"
+#      icon: "fab fa-linkedin-in"
+#      url: "https://www.linkedin.com/in/ramesha-karunasena"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/rameshakarunas1"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/RameshaKaru"
+#    - label: "Medium"
+#      icon: "fab fa-medium"
+#      url: "https://medium.com/@ramesha.karu"
+#    - label: "YouTube"
+#      icon: "fab fa-fw fa-youtube"
+#      url: "https://www.youtube.com/channel/UCoL0-hFUGKMAdVlavOZlbGQ"
+
 author:
   name   : "Ramesha Karunasena"
   avatar : "/assets/images/myphoto.jpg"
   bio    : "A passionate programmer, interested in AI For Social Good"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Qp4FL6QAAAAJ"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/ramesha-karunasena"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rameshakarunas1"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/RameshaKaru"
-    - label: "Medium"
-      icon: "fab fa-medium"
-      url: "https://medium.com/@ramesha.karu"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCoL0-hFUGKMAdVlavOZlbGQ"
-#author:
-#  name             : "Your Sidebar Name"
-#  avatar           : "profile.png"
-#  bio              : "Your biography for the left-hand sidebar"
-#  location         : "Location"
-#  employer         :
+  location         : "Singapore"
+  employer         : "Singapore Managemnet University"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#  googlescholar    : "http://yourfullgooglescholarurl.com"
-#  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Qp4FL6QAAAAJ"
+  email            : "rameshak@smu.edu.sg"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #  uri              :
 #  bitbucket        :
@@ -130,13 +130,13 @@ author:
 #  flickr           :
 #  facebook         :
 #  foursquare       :
-#  github           : "academicpages"
+  github           : "academicpages"
 #  google_plus      :
 #  keybase          :
 #  instagram        :
 #  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
 #  lastfm           :
-#  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ramesha-karunasena"
 #  orcid            : "http://orcid.org/yourorcidurl"
 #  pinterest        :
 #  soundcloud       :
